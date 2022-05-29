@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import {
     SidebarContainer, 
     Icon, 
@@ -8,7 +8,7 @@ import {
     SidebarLink,
     SideBtnWrap,
     SidebarRoute
-} from './SidebarElements'
+} from './SidebarElements';
 
 const Sidebar = () => {
   return (
@@ -29,6 +29,6 @@ const Sidebar = () => {
         </SidebarWrapper>
     </SidebarContainer>
   )
-}
+};
 
-export default Sidebar
+export default Sidebar;
