@@ -19,7 +19,6 @@ const Sidebar = () => {
         <SidebarWrapper>
             <SidebarMenu>
                 <SidebarLink to="about">About</SidebarLink>
-                <SidebarLink to="about">Dolla</SidebarLink>
                 <SidebarLink to="discover">Discover</SidebarLink>
                 <SidebarLink to="services">Services</SidebarLink>
                 <SidebarLink to="signup">Sign Up</SidebarLink>
