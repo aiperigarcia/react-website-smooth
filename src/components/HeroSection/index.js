@@ -26,9 +26,9 @@ const HeroSection = () => {
             <VideoBg autoPlay loop muted src={Video} type='video/mp4' />
         </HeroBg>
         <HeroContent>
-            <HeroH1>Welcome to Ocean Getaway</HeroH1>
+            <HeroH1>Welcome to a carefree paradise</HeroH1>
             <HeroP>
-                Sign up for a new account today and receive 20% off towards your next payment.
+            The resort offers a vast array of classes to supplement your whole health, including guided hikes, yoga, sound healing, cycle classes, outdoor adventure, and more.
             </HeroP>
             <HeroBtnWrapper>
                 <Button to='signup' onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'>
