@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const ServicesContainer = styled.div`
     height: 800px;
@@ -34,7 +34,7 @@ export const ServicesWrapper = styled.div`
         grid-template-columns: 1fr;
         padding: 0 20px;
     }
-`
+`;
 
 export const ServicesCard = styled.div`
     background: #fffaf3;
