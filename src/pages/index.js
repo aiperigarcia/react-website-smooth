@@ -25,7 +25,7 @@ const Home = () => {
         <InfoSection {...homeObjThree}/>
         <Footer />
     </>
-  )
-}
+  );
+};
 
 export default Home;
